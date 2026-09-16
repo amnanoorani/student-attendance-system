@@ -4,7 +4,7 @@
 A database-driven attendance tracking system.
 
 ## Tech Stack
-SQL (confirm: MySQL/SQL Server?)
+MySQL
 
 ## Features
 - Tracks daily student attendance
